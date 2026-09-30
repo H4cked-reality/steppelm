@@ -1,0 +1,3 @@
+[submodule "data/tm-data"]
+	path = data/tm-data
+	url = https://github.com/turkmenos/tm-data.git
